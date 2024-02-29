@@ -8,3 +8,4 @@ Second---->CloudBlog which publishes insights of all features in  e-platform
 Third---->Cloudcart which is a e-commerce site having all shopping things.
 Fourth---->Contact us/chatbot ai which is having a review page and chatbot having all features related to our cloude coder page.
 more feature are adding with the processing of time.
+like:payment gateway,ai bot,some backend work is going on.
